@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JulieDeveloper
-- 🌱 I’m currently learning HTML / CSS / Javascript  
+- 👋 Hi, I’m Julie, an FrontEnd Developer
+- 🌱 Currently living in Branford Ontario
+- ❤️‍🔥 Looking for opportunity to build some fun projects with you!!! 
 - 📫 chouyuan424@gmail.com
 
 <!---
